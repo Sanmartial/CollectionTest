@@ -1,0 +1,9 @@
+# Project exclude paths
+/CollectionTest/target/
+/.idea
+*.ipr
+*.iml
+*.iws
+*/xml
+pom.xml
+.gitignore
